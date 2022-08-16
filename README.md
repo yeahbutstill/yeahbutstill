@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeahbutstill&layout=compact&theme=tokyonight&margin-w=15)](https://github.com/anuraghazra/github-readme-stats)
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=3y9p2ss8h7ghqtxjvfhjof1yj)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3y9p2ss8h7ghqtxjvfhjof1yj)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yeahbutstill&theme=tokyonight&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
