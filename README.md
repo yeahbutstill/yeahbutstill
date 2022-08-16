@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahbutstill&show_icons=true&theme=tokyonight&margin-w=15)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeahbutstill&layout=compact&theme=tokyonight&margin-w=15)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3y9p2ss8h7ghqtxjvfhjof1yj)
 
