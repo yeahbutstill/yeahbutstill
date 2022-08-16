@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeahbutstill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/convoychat">
+<div>
+  <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeahbutstill&repo=database-aplikasi-todolist" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
@@ -31,3 +32,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeahbutstill&repo=spring-boot-code-analysis-with-sonarqube" />
 </a>
+</div>
+
