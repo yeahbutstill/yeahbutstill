@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahbutstill&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeahbutstill&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeahbutstill&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
