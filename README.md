@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3y9p2ss8h7ghqtxjvfhjof1yj)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yeahbutstill&theme=tokyonight&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yeahbutstill&theme=tokyonight&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yeahbutstill)](https://git.io/streak-stats)
