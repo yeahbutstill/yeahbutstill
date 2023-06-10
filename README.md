@@ -1,3 +1,13 @@
 ### Yoo SUP Dude 👋
+### Hi there 👋, my name is Dani
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yeahbutstill)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](rahasia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](rahasia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](rahasia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>](rahasia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](rahasia)  
+
+![GitHub metrics](https://metrics.lecoq.io/yeahbutstill)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=yeahbutstill)  
+
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3y9p2ss8h7ghqtxjvfhjof1yj)
