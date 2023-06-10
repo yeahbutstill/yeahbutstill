@@ -1,4 +1,3 @@
-### Yoo SUP Dude 👋
 ### Hi there 👋, my name is Dani
 
 
