@@ -6,6 +6,6 @@
 [![](https://visitcount.itsvg.in/api?id=yeahbutstill&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 ![](https://github-readme-stats.vercel.app/api?username=yeahbutstill&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yeahbutstill&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yeahbutstill&theme=dark&hide_border=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3y9p2ss8h7ghqtxjvfhjof1yj)
