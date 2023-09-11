@@ -3,36 +3,24 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 923.4 kB Used in GitHub's Storage 
- > 
-> 🏆 962 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 214 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                480 commits         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
-🌆 Daytime                659 commits         █████████░░░░░░░░░░░░░░░░   34.65 % 
-🌃 Evening                469 commits         ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-🌙 Night                  294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+🌞 Morning                480 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+🌆 Daytime                659 commits         █████████░░░░░░░░░░░░░░░░   34.63 % 
+🌃 Evening                470 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+🌙 Night                  294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
-Tuesday                  334 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Wednesday                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
-Thursday                 260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-Friday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Saturday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
+Monday                   298 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Tuesday                  334 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
+Wednesday                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Thursday                 260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Friday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Saturday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
+Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 ```
 
 
@@ -67,12 +55,8 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
-
-
- Last Updated on 11/09/2023 14:15:03 UTC
+ Last Updated on 11/09/2023 14:25:03 UTC
 <!--END_SECTION:waka-->
 [<img src='https://dev.karakun.com/assets/posts/2018-09-16-jc-java-article/3duke_suspects.jpg' alt='java'>](https://github.com/yeahbutstill)
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yeahbutstill)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](rahasia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](rahasia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](rahasia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>](rahasia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](rahasia) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apachekafka.svg' alt='apachekafka' height='40'>](rahasia) -->   
