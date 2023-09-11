@@ -1,24 +1,22 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C243%20hrs%2034%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                480 commits         ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
-🌆 Daytime                659 commits         █████████░░░░░░░░░░░░░░░░   34.63 % 
-🌃 Evening                470 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-🌙 Night                  294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+🌞 Morning                480 commits         ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+🌆 Daytime                659 commits         █████████░░░░░░░░░░░░░░░░   34.61 % 
+🌃 Evening                471 commits         ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+🌙 Night                  294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   298 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Tuesday                  334 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Wednesday                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Monday                   299 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Tuesday                  334 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Wednesday                294 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
 Thursday                 260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Friday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
+Friday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
 Saturday                 205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
 Sunday                   225 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
 ```
@@ -56,7 +54,7 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2023 14:25:03 UTC
+ Last Updated on 11/09/2023 14:39:12 UTC
 <!--END_SECTION:waka-->
 [<img src='https://dev.karakun.com/assets/posts/2018-09-16-jc-java-article/3duke_suspects.jpg' alt='java'>](https://github.com/yeahbutstill)
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yeahbutstill)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/java.svg' alt='java' height='40'>](rahasia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spring.svg' alt='spring' height='40'>](rahasia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg' alt='docker' height='40'>](rahasia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/postgresql.svg' alt='postgresql' height='40'>](rahasia)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linux.svg' alt='linux' height='40'>](rahasia) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/apachekafka.svg' alt='apachekafka' height='40'>](rahasia) -->   
