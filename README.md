@@ -8,7 +8,7 @@
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-489-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.4%20million%20lines%20of%20code-blue)
-[<img src='https://media.tenor.com/-8-KGI1eU8MAAAAd/jujutsu-kaisen-second-season.gif' alt='java'>](https://github.com/yeahbutstill)
+
 **🐱 My GitHub Data** 
 
 > 📦 924.6 kB Used in GitHub's Storage 
@@ -73,6 +73,8 @@ Kotlin                   1 repo              ░░░░░░░░░░░�
 
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
+
+[<img src='https://media.tenor.com/-8-KGI1eU8MAAAAd/jujutsu-kaisen-second-season.gif' alt='java'>](https://github.com/yeahbutstill)
 
  Last Updated on 24/09/2023 21:38:42 UTC
 <!--END_SECTION:waka-->
