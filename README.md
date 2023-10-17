@@ -5,15 +5,15 @@
 [<img src='https://media.tenor.com/-8-KGI1eU8MAAAAd/jujutsu-kaisen-second-season.gif' alt='gojo'>](https://github.com/yeahbutstill)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%2031%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C361%20hrs%2055%20mins-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                527 commits         ██████░░░░░░░░░░░░░░░░░░░   24.68 % 
-🌆 Daytime                720 commits         ████████░░░░░░░░░░░░░░░░░   33.72 % 
-🌃 Evening                546 commits         ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-🌙 Night                  342 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+🌞 Morning                528 commits         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+🌆 Daytime                722 commits         ████████░░░░░░░░░░░░░░░░░   33.77 % 
+🌃 Evening                546 commits         ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
+🌙 Night                  342 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 ```
 
 
@@ -35,5 +35,5 @@ YAML                     34 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2023 01:12:56 UTC
+ Last Updated on 17/10/2023 18:40:34 UTC
 <!--END_SECTION:waka-->
