@@ -2,7 +2,7 @@
 [<img src='https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/Mozart.jpg' alt='gang'>](https://github.com/yeahbutstill)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C609%20hrs%2049%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C611%20hrs%2047%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -20,10 +20,9 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Rust                     12 hrs 35 mins      █████████████████████░░░░   84.31 % 
-Lua                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-TOML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Rust                     13 hrs 31 mins      █████████████████████░░░░   85.88 % 
+Lua                      1 hr 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+Bash                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 **Timeline**
@@ -31,5 +30,5 @@ TOML                     11 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2024 18:39:44 UTC
+ Last Updated on 17/01/2024 18:40:12 UTC
 <!--END_SECTION:waka-->
