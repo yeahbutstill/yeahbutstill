@@ -2,15 +2,15 @@
 [<img src='https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/Mozart.jpg' alt='gang'>](https://github.com/yeahbutstill)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C623%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C624%20hrs%2017%20mins-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                612 commits         ██████░░░░░░░░░░░░░░░░░░░   24.90 % 
-🌆 Daytime                840 commits         █████████░░░░░░░░░░░░░░░░   34.17 % 
-🌃 Evening                592 commits         ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
-🌙 Night                  414 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+🌞 Morning                631 commits         ██████░░░░░░░░░░░░░░░░░░░   24.89 % 
+🌆 Daytime                876 commits         █████████░░░░░░░░░░░░░░░░   34.56 % 
+🌃 Evening                613 commits         ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+🌙 Night                  415 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
 ```
 
 
@@ -20,7 +20,8 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     41 mins             █████████████████████████   100.00 % 
+Java                     47 mins             ████████████████░░░░░░░░░   63.85 % 
+Markdown                 26 mins             █████████░░░░░░░░░░░░░░░░   36.15 % 
 ```
 
 **Timeline**
@@ -28,5 +29,5 @@ Java                     41 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 08/02/2024 18:40:12 UTC
+ Last Updated on 09/02/2024 18:38:35 UTC
 <!--END_SECTION:waka-->
