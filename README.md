@@ -20,8 +20,7 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Other                    1 hr 30 mins        █████████████████████████   99.69 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Bash                     0 secs              █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -29,5 +28,5 @@ Bash                     0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 22/03/2024 18:38:31 UTC
+ Last Updated on 23/03/2024 18:38:41 UTC
 <!--END_SECTION:waka-->
