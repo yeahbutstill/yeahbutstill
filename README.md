@@ -28,5 +28,5 @@ Java                     10 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 17/04/2024 18:39:10 UTC
+ Last Updated on 18/04/2024 18:38:51 UTC
 <!--END_SECTION:waka-->
