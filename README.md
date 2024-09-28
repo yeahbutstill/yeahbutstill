@@ -2,7 +2,7 @@
 [<img src='https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/Mozart.jpg' alt='gang'>](https://github.com/yeahbutstill)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C797%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C795%20hrs%2057%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -31,5 +31,5 @@ JSON                     5 mins              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2024 07:16:30 UTC
+ Last Updated on 28/09/2024 18:43:41 UTC
 <!--END_SECTION:waka-->
