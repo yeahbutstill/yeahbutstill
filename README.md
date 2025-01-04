@@ -2,7 +2,7 @@
 [<img src='https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/Mozart.jpg' alt='gang'>](https://github.com/yeahbutstill)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C148%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C150%20hrs%2056%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -20,11 +20,11 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     9 hrs 10 mins       ████████████████████░░░░░   80.90 % 
-XML                      1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Java                     5 hrs 9 mins        █████████████████░░░░░░░░   68.39 % 
+XML                      1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Java Properties          20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+SQL                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
+Properties               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
 ```
 
 **Timeline**
@@ -32,5 +32,5 @@ Markdown                 11 mins             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2025 18:46:03 UTC
+ Last Updated on 04/01/2025 18:44:30 UTC
 <!--END_SECTION:waka-->
