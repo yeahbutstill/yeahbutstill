@@ -20,11 +20,7 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     46 mins             █████████████░░░░░░░░░░░░   51.01 % 
-XML                      33 mins             █████████░░░░░░░░░░░░░░░░   36.01 % 
-Java Properties          10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -32,5 +28,5 @@ Properties               0 secs              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 22/01/2025 18:47:05 UTC
+ Last Updated on 23/01/2025 18:46:15 UTC
 <!--END_SECTION:waka-->
