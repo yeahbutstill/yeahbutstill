@@ -20,7 +20,7 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     3 hrs 15 mins       █████████████████████████   100.00 % 
+Java                     1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **Timeline**
@@ -28,5 +28,5 @@ Java                     3 hrs 15 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 10/03/2025 18:47:36 UTC
+ Last Updated on 11/03/2025 18:49:12 UTC
 <!--END_SECTION:waka-->
