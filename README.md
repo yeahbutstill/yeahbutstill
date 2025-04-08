@@ -2,12 +2,35 @@
 [<img src='https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/Mozart.jpg' alt='gang'>](https://github.com/yeahbutstill)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C209%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C211%20hrs%2054%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                609 commits         ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
+🌆 Daytime                821 commits         ████████░░░░░░░░░░░░░░░░░   33.47 % 
+🌃 Evening                595 commits         ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
+🌙 Night                  428 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Java                     17 hrs 56 mins      ████████████████████████░   94.38 % 
+XML                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+textmate                 22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Lua                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+bigfile                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+```
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 07/04/2025 18:48:14 UTC
+ Last Updated on 08/04/2025 18:50:51 UTC
 <!--END_SECTION:waka-->
