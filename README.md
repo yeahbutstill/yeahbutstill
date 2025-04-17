@@ -2,7 +2,7 @@
 [<img src='https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/Mozart.jpg' alt='gang'>](https://github.com/yeahbutstill)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C215%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C217%20hrs-blue)
 
 **I'm an Early 🐤** 
 
@@ -20,7 +20,8 @@
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     3 hrs 22 mins       █████████████████████████   100.00 % 
+Java                     5 hrs 5 mins        █████████████████████████   99.91 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 **Timeline**
@@ -28,5 +29,5 @@ Java                     3 hrs 22 mins       ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 16/04/2025 18:50:10 UTC
+ Last Updated on 17/04/2025 18:49:26 UTC
 <!--END_SECTION:waka-->
