@@ -2,10 +2,12 @@
 [<img src='https://asset-2.tstatic.net/tribunnewswiki/foto/bank/images/Mozart.jpg' alt='gang'>](https://github.com/yeahbutstill)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C503%20hrs%2059%20mins-blue)
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 30/07/2025 18:57:39 UTC
+ Last Updated on 31/07/2025 18:57:36 UTC
 <!--END_SECTION:waka-->
