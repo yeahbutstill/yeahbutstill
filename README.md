@@ -4,10 +4,29 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C514%20hrs%2058%20mins-blue)
 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                593 commits         ██████░░░░░░░░░░░░░░░░░░░   24.36 % 
+🌆 Daytime                817 commits         ████████░░░░░░░░░░░░░░░░░   33.57 % 
+🌃 Evening                595 commits         ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+🌙 Night                  429 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/yeahbutstill/yeahbutstill/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2025 18:52:33 UTC
+ Last Updated on 10/08/2025 18:51:13 UTC
 <!--END_SECTION:waka-->
